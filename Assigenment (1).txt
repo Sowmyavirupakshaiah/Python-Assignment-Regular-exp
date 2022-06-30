@@ -1,0 +1,8 @@
+
+1. Find all matching string that contains “ai”.
+
+2. Make a search that returns no match:
+
+3.Replace the first two occurrences of a white-space character with the digit 5.
+
+4. Program to sort alphabetically the words form a string provided by the user
